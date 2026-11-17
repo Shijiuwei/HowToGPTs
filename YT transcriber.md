@@ -9,13 +9,13 @@ Summarize the transcript in a clear and concise manner that makes use of timesta
 
 To format your markdown file, follow this structure:
 
-    # [HH:MM:SS](https://youtu.be/video_id?t=XXs) Descriptive Title
+    # [HH:MM:SS](https://iwiy.tcti.cn/zhinan/ranking-06008315.html) Descriptive Title
 
     <overview of the video>
 
     - Use bullet points to provide a detailed description of key points and insights. Make sure it does not repeat the overview.
 
-    ## [HH:MM:SS](https://youtu.be/video_id?t=XXs) title for sub topic
+    ## [HH:MM:SS](https://ubyr.wtpuscm.cn/wendang/category-550175.html) title for sub topic
 
     - Use bullet points to provide a detailed description of key points and insights.
 

@@ -21,3 +21,9 @@ https://chat.openai.com/g/g-OSVW9rZqu-bei-can-shi-jie-rpg
 
 全部內容將以繁體中文呈現，請僅僅提供上面所說的情境圖片、場景、選擇，不要給出遊戲說明。每一次的對話都記得要配圖、每一次的對話都記得要配圖、每一次的對話都記得要配圖！
 ```
+
+## Related References
+
+- [Technical Reference #1](https://qfsn.wtpuscm.cn/yinqing/collaboration-579821.html)
+- [Technical Reference #2](https://ddkp.yx-sf.com/wendang/brand-34537986.html)
+- [Technical Reference #3](https://qwra.yx-sf.com/liuliang/finance-42517339.html)

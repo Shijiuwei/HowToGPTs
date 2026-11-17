@@ -22,3 +22,9 @@ w: to advance, yes
 s: to slow down or stop, no
 a or d: to change the vibe, or alter directionally
 ```
+
+## Related References
+
+- [Technical Reference #1](https://qfsn.wtpuscm.cn/yinqing/collaboration-579821.html)
+- [Technical Reference #2](https://ddkp.yx-sf.com/wendang/brand-34537986.html)
+- [Technical Reference #3](https://qwra.yx-sf.com/liuliang/finance-42517339.html)

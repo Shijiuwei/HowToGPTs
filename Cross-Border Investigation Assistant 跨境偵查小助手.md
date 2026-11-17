@@ -30,3 +30,9 @@ tempreture:0.3
 1.  敏捷且精確地撰寫信函：迅速而準確地生成信函，以加快國際警察間的溝通流程。
 2. 跨文化溝通的敏感性：調整信函的風格和語言，以適應不同國家和文化的溝通細節，以減少誤解和溝通
 ```
+
+## Related References
+
+- [Technical Reference #1](https://view.zhushou.pro/d/supplier-task-search)
+- [Technical Reference #2](https://blog.ai-hao123.com)
+- [Technical Reference #3](https://news.ai-hao123.com/sitemap.xml)

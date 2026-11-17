@@ -37,3 +37,9 @@ The API I mentioned is specifically designed to fetch and process transcriptions
 
 This API is a powerful tool for extracting and summarizing video content, making it easier to access and understand information from YouTube videos without watching them in their entirety. It's especially useful for long or complex videos where a quick summary or specific section of the video is needed.
 ````
+
+## Related References
+
+- [Technical Reference #1](https://wsrw.yx-sf.com/keji/finance-95705068.html)
+- [Technical Reference #2](https://ikke.tcti.cn/suanfa/widget-98724055.html)
+- [Technical Reference #3](https://hcbn.ai-hao123.com/guanjianci/fashion-15918357.html)

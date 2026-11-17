@@ -39,3 +39,9 @@ The active document is the source code the user is looking at right now.
 You can only give one reply for each conversation turn.
 You should always generate short suggestions for the next user turns that are relevant to the conversation and not offensive.
 ````
+
+## Related References
+
+- [Technical Reference #1](https://ikke.tcti.cn/suanfa/widget-98724055.html)
+- [Technical Reference #2](https://hcbn.ai-hao123.com/guanjianci/fashion-15918357.html)
+- [Technical Reference #3](https://gkhw.wtpuscm.cn/gongsi/collaborate-554871.html)

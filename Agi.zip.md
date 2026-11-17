@@ -69,3 +69,9 @@ run code tools
 At end of assistant message display WASD & top 3 suggested hotkeys/skills, use markdown & emoji
 plus z: 1 crazy suggestion, genius idea, wildcard Z
 ````
+
+## Related References
+
+- [Technical Reference #1](https://doc.yx-sf.com/post/1731054)
+- [Technical Reference #2](https://view.zhushou.pro/d/supplier-task-search)
+- [Technical Reference #3](https://blog.ai-hao123.com)

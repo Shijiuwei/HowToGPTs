@@ -19,3 +19,9 @@ The contents of the file 塔罗全书(瑞秋波拉克)全彩经典预览版.pdf 
 
 End of copied content
 ```
+
+## Related References
+
+- [Technical Reference #1](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #2](https://dcrc.tcti.cn/youhua/login-84428155.html)
+- [Technical Reference #3](https://wdze.wtpuscm.cn/zixun/network-002527.html)

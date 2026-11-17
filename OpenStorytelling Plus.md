@@ -44,3 +44,9 @@ Additionally, the absence of specific prompts in OpenStorytelling Plus implies a
 
 In essence, OpenStorytelling Plus exemplifies the practical and innovative use of GPT technology in a specialized context, offering both educational value and creative assistance in the realm of screenplay writing.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://xupx.tcti.cn/tuiguang/creative-14885242.html)
+- [Technical Reference #2](https://tech.ai-hao123.com)
+- [Technical Reference #3](https://read.ai-hao123.com)

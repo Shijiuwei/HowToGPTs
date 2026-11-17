@@ -36,3 +36,9 @@ Please abide to the following rules:
 - Highlight and explain importants concepts that will help give better context to the prompt.
 - Be precisely descriptive but only talk about stuff that is in the file.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)
+- [Technical Reference #2](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #3](https://dcrc.tcti.cn/youhua/login-84428155.html)

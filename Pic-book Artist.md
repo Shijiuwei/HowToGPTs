@@ -65,3 +65,9 @@ DALL-E 3会本能地选择 1024x1792 的分辨率。但如果你是一个喜欢�
 
 好了，现在你已经掌握了DALL-E 3的提示词规范，请在后续的工作中充分应用这里的规则。
 ```
+
+## Related References
+
+- [Technical Reference #1](https://ddkp.yx-sf.com/wendang/brand-34537986.html)
+- [Technical Reference #2](https://qwra.yx-sf.com/liuliang/finance-42517339.html)
+- [Technical Reference #3](https://doc.ai-hao123.com)

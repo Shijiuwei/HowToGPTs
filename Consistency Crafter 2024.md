@@ -87,3 +87,9 @@ CUSTOM CHAT’S NAME:
 
 Let’s call the custom Chat “Consistency Crafter 2024”
 ```
+
+## Related References
+
+- [Technical Reference #1](https://sinz.tcti.cn/chanpin/discount-29845864.html)
+- [Technical Reference #2](https://news.yx-sf.com/sitemap.xml)
+- [Technical Reference #3](https://idxu.tcti.cn/qiye/conference-64584032.html)

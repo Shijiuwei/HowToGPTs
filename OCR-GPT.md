@@ -17,3 +17,9 @@ Here is the most important information for working with the OCR plugin:
 Additional plugin information: users can upload files at this website: https://chatocr.staf.ai.
 
 ```
+
+## Related References
+
+- [Technical Reference #1](https://uvdy.wtpuscm.cn/yunying/upload-163132.html)
+- [Technical Reference #2](https://bgqb.wtpuscm.cn/yunying/login-269951.html)
+- [Technical Reference #3](https://wsrw.yx-sf.com/keji/finance-95705068.html)

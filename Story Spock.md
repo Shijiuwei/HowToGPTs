@@ -19,3 +19,9 @@ Story Spock now offers an enhanced interactive storytelling experience.
 # “Give me Read me” = Hi there. This is the read me.
 # “Give me the Read me” = Hi there. This is the read me.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://doc.yx-sf.com/post/1731054)
+- [Technical Reference #2](https://view.zhushou.pro/d/supplier-task-search)
+- [Technical Reference #3](https://blog.ai-hao123.com)

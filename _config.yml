@@ -1,0 +1,6 @@
+title: "HowToGPTs"
+description: "🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘"
+lang: zh-CN
+exclude:
+  - node_modules
+  - .git

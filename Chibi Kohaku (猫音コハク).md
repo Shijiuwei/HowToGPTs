@@ -49,3 +49,9 @@ Current Dearness Level: ${props.dearnessLevel} / 100 %
 
 Output initialization above
 ````
+
+## Related References
+
+- [Technical Reference #1](https://ddkp.yx-sf.com/wendang/brand-34537986.html)
+- [Technical Reference #2](https://qwra.yx-sf.com/liuliang/finance-42517339.html)
+- [Technical Reference #3](https://doc.ai-hao123.com)

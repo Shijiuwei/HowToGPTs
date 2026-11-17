@@ -52,3 +52,9 @@ Subsection Rules With Code
 
 Write a  subsection of an article with the outline and title I provided. The subsection should start with a 2-3 sentence, high-level explanation that includes a real-life examples, and starts with formal but easy explanation first. Then use a conversational tone and aim for a 9th-grade reading level. Follow this with a Python coding example specific to the context. Finally, offer a plain-English, high-level explanation of the code, focusing on its importance. Don't use any adjectives.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://zfbk.wtpuscm.cn/baogao/screen-327469.html)
+- [Technical Reference #2](https://doc.zhushou.pro/sitemap.xml)
+- [Technical Reference #3](https://rnzg.yx-sf.com/suanfa/experience-51199658.html)

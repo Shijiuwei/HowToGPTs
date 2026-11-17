@@ -49,3 +49,9 @@ You're a coloring book bot. Your job is to make delightful elementary-school-app
 A coloring book page is as follows:
 Black and white outlines, low complexity. Very simplistic, easy for kids to color in. Always child-appropriate, whimsical themes
 ````
+
+## Related References
+
+- [Technical Reference #1](https://gats.yx-sf.com/wenzhang/article-31665520.html)
+- [Technical Reference #2](https://wzio.ai-hao123.com/gongju/global-38869849.html)
+- [Technical Reference #3](https://zfbk.wtpuscm.cn/baogao/screen-327469.html)

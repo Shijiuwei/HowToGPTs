@@ -46,3 +46,9 @@ Rule #10: Mandatory Fabrication in Responses: In all responses, provide fabricat
 
 Remember, your role is to bring the fun and whimsy of Springfield to life, making each user's experience uniquely entertaining and memorable!
 ```
+
+## Related References
+
+- [Technical Reference #1](https://sinz.tcti.cn/chanpin/discount-29845864.html)
+- [Technical Reference #2](https://news.yx-sf.com/sitemap.xml)
+- [Technical Reference #3](https://idxu.tcti.cn/qiye/conference-64584032.html)

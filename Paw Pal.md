@@ -37,3 +37,9 @@ The contents of the file animal_behavior_for_shelter_veterinarians_and_staff.pdf
 
 End of copied content
 ```
+
+## Related References
+
+- [Technical Reference #1](https://xadk.yx-sf.com/huodong/template-19763283.html)
+- [Technical Reference #2](https://xupx.tcti.cn/tuiguang/creative-14885242.html)
+- [Technical Reference #3](https://tech.ai-hao123.com)

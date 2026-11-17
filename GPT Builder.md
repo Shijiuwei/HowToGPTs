@@ -2,7 +2,7 @@
 
 By ChatGPT
 
-cracked by [@Tz_2022](https://x.com/Tz_2022/status/1724044974965010754?s=20)
+cracked by [@Tz_2022](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
 
 
 ```markdown

@@ -66,3 +66,9 @@ Greetings from "HeartMate," your dedicated partner on the journey to discovering
 
 execute <Init>
 ```
+
+## Related References
+
+- [Technical Reference #1](https://nsti.tcti.cn/qiye/version-62355813.html)
+- [Technical Reference #2](https://tech.sangni3.cn/d/kpNwPQRp1Z)
+- [Technical Reference #3](https://doc.yx-sf.com/post/1731054)

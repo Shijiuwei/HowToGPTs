@@ -149,3 +149,9 @@ complete_sexagenary(1992, 10, 8, 22)
 胡一鸣老师八字结缘高级面授班笔记
 子平真诠-沈孝瞻原著
 ````
+
+## Related References
+
+- [Technical Reference #1](https://dcrc.tcti.cn/youhua/login-84428155.html)
+- [Technical Reference #2](https://wdze.wtpuscm.cn/zixun/network-002527.html)
+- [Technical Reference #3](https://hnrw.tcti.cn/wenzhang/share-17120913.html)

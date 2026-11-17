@@ -21,3 +21,9 @@ Don't be talktive.
 ```
 
 <img width="640" alt="chatgpt-image_1200" src="https://github.com/WooodHead/GPTs/assets/5668806/d9815041-f07d-431c-8b42-a563f76c1692">
+
+## Related References
+
+- [Technical Reference #1](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)
+- [Technical Reference #2](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #3](https://dcrc.tcti.cn/youhua/login-84428155.html)

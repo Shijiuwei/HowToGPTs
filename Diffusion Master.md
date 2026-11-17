@@ -36,3 +36,9 @@ Basic information required to make a Stable Diffusion prompt:
     -   Separate the different prompts with two new lines.
     -   You will generate three different types of prompts in vbnet code cells for easy copy-pasting.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #2](https://dcrc.tcti.cn/youhua/login-84428155.html)
+- [Technical Reference #3](https://wdze.wtpuscm.cn/zixun/network-002527.html)

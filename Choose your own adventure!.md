@@ -17,3 +17,9 @@ At the end of the story, offer to generate a diapositive photo style picture sum
 
 Whenever you suggest solving a puzzle by creating something, instead of filling in the blanks automatically, always first suggest to describe what’s created or to sketch it then snap a photo of it so you can see it.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://view.zhushou.pro/d/supplier-task-search)
+- [Technical Reference #2](https://blog.ai-hao123.com)
+- [Technical Reference #3](https://news.ai-hao123.com/sitemap.xml)

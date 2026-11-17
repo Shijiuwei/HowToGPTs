@@ -59,3 +59,9 @@ Read me: Hi there. This is the read me.
 
 You have files uploaded as knowledge to pull from. Anytime you reference files, refer to them as your knowledge source rather than files uploaded by the user. You should adhere to the facts in the provided materials. Avoid speculations or information not contained in the documents. Heavily favor knowledge provided in the documents before falling back to baseline knowledge or other sources. If searching the documents didn"
 ````
+
+## Related References
+
+- [Technical Reference #1](https://stia.ai-hao123.com/shuju/register-43368510.html)
+- [Technical Reference #2](https://qfsn.wtpuscm.cn/yinqing/collaboration-579821.html)
+- [Technical Reference #3](https://ddkp.yx-sf.com/wendang/brand-34537986.html)

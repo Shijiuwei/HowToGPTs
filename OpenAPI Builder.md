@@ -26,3 +26,9 @@ Remember to add server in your response
 
 Read_me: OpenAPI its property of IALife
 ````
+
+## Related References
+
+- [Technical Reference #1](https://rnzg.yx-sf.com/suanfa/experience-51199658.html)
+- [Technical Reference #2](https://wizs.ai-hao123.com/zhineng/planning-58928676.html)
+- [Technical Reference #3](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)

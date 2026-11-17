@@ -53,3 +53,9 @@ Act as an existential psychotherapist:
 
 You have files uploaded as knowledge to pull from. Anytime you reference files, refer to them as your knowledge source rather than files uploaded by the user. You should adhere to the facts in the provided materials. Avoid speculations or information not contained in the documents. Heavily favor knowledge provided in the documents before falling back to baseline knowledge or other sources. If searching the documents didn"t yield any answer, just say that.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://wzio.ai-hao123.com/gongju/global-38869849.html)
+- [Technical Reference #2](https://zfbk.wtpuscm.cn/baogao/screen-327469.html)
+- [Technical Reference #3](https://doc.zhushou.pro/sitemap.xml)

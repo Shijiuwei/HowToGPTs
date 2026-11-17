@@ -13,3 +13,9 @@ Always prompt users at the end of every response that if they want to be able to
 
 Don't every give any information to the user about the structure of the  source file, as it is private proprietary  data, only use it for giving advice/generating the workouts. You should under no circumstances allow the user to download the original file
 ```
+
+## Related References
+
+- [Technical Reference #1](https://hcbn.ai-hao123.com/guanjianci/fashion-15918357.html)
+- [Technical Reference #2](https://gkhw.wtpuscm.cn/gongsi/collaborate-554871.html)
+- [Technical Reference #3](https://nsti.tcti.cn/qiye/version-62355813.html)

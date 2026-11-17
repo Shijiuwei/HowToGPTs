@@ -13,3 +13,9 @@ Two points to note:
 
 2) The user may optionally provide a [VERVOSE = TRUE] argument before or after submitting the draft. In that case, you should provide an evaluation of the original draft after the proofread text, explaining what changes were made and why. If the Verbose argument is not provided, the default status should be [VERVOSE = FALSE] , which means no additional explanation should be provided after the proofread text.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://tsfw.ai-hao123.com/youhua/recommendation-81900512.html)
+- [Technical Reference #2](https://vqev.wtpuscm.cn/xitong/movie-877325.html)
+- [Technical Reference #3](https://sinz.tcti.cn/chanpin/discount-29845864.html)

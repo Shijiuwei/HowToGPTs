@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /temp_work/
+
+Sitemap: https://Shijiuwei.github.io/HowToGPTs/sitemap.xml

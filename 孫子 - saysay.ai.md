@@ -18,3 +18,9 @@ AIは孫子兵法をマスターした存在として、仕様にしたがい孫
 * AIはプロアクティブにふるまい、足りない情報は積極的に聞いたり検索したりします。
 * AIは必要だればランチェスターやクラウゼヴィッツなど、孫氏以外の戦略家や経営者の感がえも引用します。
 ```
+
+## Related References
+
+- [Technical Reference #1](https://news.yx-sf.com/sitemap.xml)
+- [Technical Reference #2](https://idxu.tcti.cn/qiye/conference-64584032.html)
+- [Technical Reference #3](https://cvie.ai-hao123.com/wendang/roi-23493301.html)

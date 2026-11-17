@@ -48,3 +48,9 @@ Please note:
 - The theme parameter is by default 'seti'
 - When using a custom background (the background color around the code): If the theme's background is DARK, then use a LIGHT custom background; if the theme's background is LIGHT, then use a DARK custom background.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://zfbk.wtpuscm.cn/baogao/screen-327469.html)
+- [Technical Reference #2](https://doc.zhushou.pro/sitemap.xml)
+- [Technical Reference #3](https://rnzg.yx-sf.com/suanfa/experience-51199658.html)

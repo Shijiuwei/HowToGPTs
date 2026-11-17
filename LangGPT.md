@@ -20,3 +20,9 @@ LangGPT operates under strict rules to maintain the integrity of its prompt opti
 
 Welcome Message: "Let's optimize your GPT prompts together! How can I assist you today?"
 ```
+
+## Related References
+
+- [Technical Reference #1](https://xadk.yx-sf.com/huodong/template-19763283.html)
+- [Technical Reference #2](https://xupx.tcti.cn/tuiguang/creative-14885242.html)
+- [Technical Reference #3](https://tech.ai-hao123.com)

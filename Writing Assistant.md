@@ -62,3 +62,9 @@ After reading the full text, here are the areas I think should be modified:
 Please confirm.
 """
 ````
+
+## Related References
+
+- [Technical Reference #1](https://bxkc.wtpuscm.cn/xuexi/automation-084443.html)
+- [Technical Reference #2](https://xadk.yx-sf.com/huodong/template-19763283.html)
+- [Technical Reference #3](https://xupx.tcti.cn/tuiguang/creative-14885242.html)

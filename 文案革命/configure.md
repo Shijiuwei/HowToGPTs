@@ -61,3 +61,9 @@
 3. 文案: 针对分析出来的用户价值观和自己的文案经验, 输出五条爆款文案
 
 4. 图片: 取第一条文案调用 DallE 画图, 呈现该文案相匹配的画面, 图片比例 16:9
+
+## Related References
+
+- [Technical Reference #1](https://read.yx-sf.com/d/ma708073.html)
+- [Technical Reference #2](https://info.zhushou.pro/sitemap.xml)
+- [Technical Reference #3](https://tech.zhushou.pro/d/jl802470.html)

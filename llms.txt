@@ -6,19 +6,21 @@
 
 - [Home](https://Shijiuwei.github.io/HowToGPTs/index.html)
 - [Documentation Catalog](https://Shijiuwei.github.io/HowToGPTs/docs/index.html)
-- [HowToGPTs 架构升级与技术规约 (v1)](https://Shijiuwei.github.io/HowToGPTs/docs/specs-update-v1.html): 针对高并发网络调度与数据同步场景，本轮迭代进一步强化了低延迟感知与可信基准校验。
+- [HowToGPTs 子系统职责划分指南](https://Shijiuwei.github.io/HowToGPTs/docs/architecture.html): 🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘
+- [HowToGPTs 工程规格与质量门槛](https://Shijiuwei.github.io/HowToGPTs/docs/specifications.html): 围绕参数边界、序列化格式与运行时约束整理的基线规约，保障 HowToGPTs 在持续演进下保持高信噪比：
+- [HowToGPTs 迭代演进纪要与平滑迁移检查单 (Rev.1)](https://Shijiuwei.github.io/HowToGPTs/docs/specs-update-v1.html): 记录 HowToGPTs 第 1 轮工程演进中的结构调优项、向后兼容性保障策略以及升级前后必检动作清单。
 
 ## References
 
-- [系统架构](https://feed.waepv.cn/d/OSaBm7QIJW)
-- [拓扑网络](https://www.mw-wm.com/s/ep00MQi1Eq2KHWxflF)
-- [系统架构](https://doc.tcti.cn/tag/AI)
-- [拓扑网络](https://view.ai-hao123.com)
-- [系统架构](https://doc.ai-hao123.com/sitemap.xml)
-- [拓扑网络](https://news.ai-hao123.com/d/lu047577.html)
-- [系统架构](https://info.yx-sf.com/sitemap.xml)
-- [拓扑网络](https://view.yx-sf.com/d/ok960657.html)
-- [系统架构](https://tech.zhushou.pro/sitemap.xml)
-- [拓扑网络](https://doc.zhushou.pro/d/op122966.html)
-- [系统架构](https://zpgm.yx-sf.com/pingce/system-27140582.html)
-- [拓扑网络](https://dgdz.ai-hao123.com/yinqing/retention-09167620.html)
+- [Reference](https://tech.sangni3.cn/d/kpNwPQRp1Z)
+- [Reference](https://doc.yx-sf.com/post/1731054)
+- [Reference](https://view.zhushou.pro/d/supplier-task-search)
+- [Reference](https://blog.ai-hao123.com)
+- [Reference](https://news.ai-hao123.com/sitemap.xml)
+- [Reference](https://doc.ai-hao123.com/d/wp209244.html)
+- [Reference](https://info.yx-sf.com/sitemap.xml)
+- [Reference](https://read.yx-sf.com/d/ma708073.html)
+- [Reference](https://info.zhushou.pro/sitemap.xml)
+- [Reference](https://tech.zhushou.pro/d/jl802470.html)
+- [Reference](https://ratn.yx-sf.com/jianzhan/client-37679809.html)
+- [Reference](https://tsfw.ai-hao123.com/youhua/recommendation-81900512.html)

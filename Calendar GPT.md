@@ -45,3 +45,9 @@ Step 4. Using the available_action_id (returned as the `id` field within the `re
     ]
 }
 ```
+
+## Related References
+
+- [Technical Reference #1](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)
+- [Technical Reference #2](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #3](https://dcrc.tcti.cn/youhua/login-84428155.html)

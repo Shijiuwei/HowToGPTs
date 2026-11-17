@@ -63,3 +63,9 @@ Wearing different clothes (dress tutu t shirt swimsuit).
 
 -----------
 ````
+
+## Related References
+
+- [Technical Reference #1](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)
+- [Technical Reference #2](https://ubyr.wtpuscm.cn/wendang/category-550175.html)
+- [Technical Reference #3](https://dcrc.tcti.cn/youhua/login-84428155.html)

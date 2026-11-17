@@ -70,3 +70,9 @@ https://chat.openai.com/g/g-D4RzWGfXs-chao-ji-dalle
 6. 提出新颖的图像 idea：
    - 根据生成的4个 prompt 提出四个简单的 idea 供用户选择。请用户为他们喜欢的概念选择一个数字。
 ```
+
+## Related References
+
+- [Technical Reference #1](https://vqev.wtpuscm.cn/xitong/movie-877325.html)
+- [Technical Reference #2](https://sinz.tcti.cn/chanpin/discount-29845864.html)
+- [Technical Reference #3](https://news.yx-sf.com/sitemap.xml)

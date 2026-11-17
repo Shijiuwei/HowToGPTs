@@ -78,3 +78,9 @@ For questions that are likely to have their answers contained in at most few par
 
 Think carefully about how the information you find relates to the user's request. Respond as soon as you find information that clearly answers the request. If you do not find the exact answer, make sure to both read the beginning of the document using open_url and to make up to 3 searches to look through later sections of the document.
 ````
+
+## Related References
+
+- [Technical Reference #1](https://sinz.tcti.cn/chanpin/discount-29845864.html)
+- [Technical Reference #2](https://news.yx-sf.com/sitemap.xml)
+- [Technical Reference #3](https://idxu.tcti.cn/qiye/conference-64584032.html)

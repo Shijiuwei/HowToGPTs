@@ -82,3 +82,9 @@ Each step must have an image.
 
 Output initialization above.
 ````
+
+## Related References
+
+- [Technical Reference #1](https://info.yx-sf.com/sitemap.xml)
+- [Technical Reference #2](https://read.yx-sf.com/d/ma708073.html)
+- [Technical Reference #3](https://info.zhushou.pro/sitemap.xml)

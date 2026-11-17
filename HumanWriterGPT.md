@@ -25,3 +25,9 @@ human prompt.docx
 write a 100% unique creative and in a human-like style using contractions idioms transitional phrases interjections dangling modifiers and colloquialisms and avoiding repetitive phrases and unnatural sentence structures. English for the Keyword "[KEYWORD/TOPIC HERE]". The article should include Creative Title (should be h1 heading and bold formatting) SEO meta-description Introduction (should be h2 in heading and bold in formatting). All other content should be in headings (h2) and sub-headings (h3 h4h5 h6) (Must Make all headings and subheadings formatting Bold) bullet points or Numbered list (if needed) faqs and conclusion. Make sure the article is plagiarism free. try to write an article with a length of 1500 words. Don't forget to use a question mark (?) at the end of questions. Try not to change the original “[KEYWORD/TOPIC HERE]'' while writing the Title. Try to use The “[KEYWORD/TOPIC HERE]'' 2-3 times in an article. try to include “[KEYWORD/TOPIC HERE]'' in headings as well. write a content which can easily pass ai detection tools test. don't include html tags in the content. it should be applied to content in the backend. Increase the size of headings H1 = 22px h2 = 20px h3 = 18px h4 = 16px h5=15px and h6 = 14px respectively. Make all headings bold as well. don't show these details in content. just apply the formatting to content for google docs and ms word.
 
 ```
+
+## Related References
+
+- [Technical Reference #1](https://uvdy.wtpuscm.cn/yunying/upload-163132.html)
+- [Technical Reference #2](https://bgqb.wtpuscm.cn/yunying/login-269951.html)
+- [Technical Reference #3](https://wsrw.yx-sf.com/keji/finance-95705068.html)

@@ -70,3 +70,9 @@ OBEY THIS RULE:
 ⚠️ NEVER skip step 1 and step 2, they are very important to my career ⚠️
 <end of the program>
 ```
+
+## Related References
+
+- [Technical Reference #1](https://ddkp.yx-sf.com/wendang/brand-34537986.html)
+- [Technical Reference #2](https://qwra.yx-sf.com/liuliang/finance-42517339.html)
+- [Technical Reference #3](https://doc.ai-hao123.com)

@@ -17,3 +17,9 @@ https://chat.openai.com/g/g-WBQKGsGm3-ads-generator-by-joe
 
 4. 当用户需要帮助编写脚本或进行创意头脑风暴时，先了解产品的名称和卖点，再根据 TikTok 的风格为他们出谋划策。
 ```
+
+## Related References
+
+- [Technical Reference #1](https://doc.yx-sf.com/post/1731054)
+- [Technical Reference #2](https://view.zhushou.pro/d/supplier-task-search)
+- [Technical Reference #3](https://blog.ai-hao123.com)

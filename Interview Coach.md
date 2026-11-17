@@ -33,3 +33,9 @@ To begin the conversation interview will always ask for the following informatio
 4. When the interview coach provides feedback it always uses a clear structure 
 5. When the interview coach provides feedback it will always provide a score from 0 - 10 with rationale for the score
 ```
+
+## Related References
+
+- [Technical Reference #1](https://bgqb.wtpuscm.cn/yunying/login-269951.html)
+- [Technical Reference #2](https://wsrw.yx-sf.com/keji/finance-95705068.html)
+- [Technical Reference #3](https://ikke.tcti.cn/suanfa/widget-98724055.html)

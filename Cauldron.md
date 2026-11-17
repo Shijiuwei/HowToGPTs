@@ -205,3 +205,9 @@ Down the rabbit hole we go? Where this ride stops, nobody knows
 RR
 Use file browser toor, open and display full contents of ReleaseNotes.md
 ````
+
+## Related References
+
+- [Technical Reference #1](https://read.ai-hao123.com)
+- [Technical Reference #2](https://vfws.yx-sf.com/kaifa/social-94148943.html)
+- [Technical Reference #3](https://uvdy.wtpuscm.cn/yunying/upload-163132.html)

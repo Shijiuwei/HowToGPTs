@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HowToGPTs</title>
+  <subtitle>🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘</subtitle>
+  <link href="https://Shijiuwei.github.io/HowToGPTs/feed.xml" rel="self"/>
+  <id>https://Shijiuwei.github.io/HowToGPTs/</id>
+  <updated>2026-11-17T18:18:31.037056100+00:00</updated>
+  <entry>
+    <title>HowToGPTs 迭代演进纪要与平滑迁移检查单 (Rev.1)</title>
+    <link href="https://Shijiuwei.github.io/HowToGPTs/docs/specs-update-v1.html"/>
+    <id>https://Shijiuwei.github.io/HowToGPTs/docs/specs-update-v1.html</id>
+    <updated>2026-11-17T18:18:31.037056100+00:00</updated>
+    <summary>记录 HowToGPTs 第 1 轮工程演进中的结构调优项、向后兼容性保障策略以及升级前后必检动作清单。</summary>
+  </entry>
+  <entry>
+    <title>HowToGPTs 子系统职责划分指南</title>
+    <link href="https://Shijiuwei.github.io/HowToGPTs/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/HowToGPTs/docs/architecture.html</id>
+    <updated>2026-11-17T18:18:31.037056100+00:00</updated>
+    <summary>🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘</summary>
+  </entry>
+  <entry>
+    <title>HowToGPTs 工程规格与质量门槛</title>
+    <link href="https://Shijiuwei.github.io/HowToGPTs/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/HowToGPTs/docs/specifications.html</id>
+    <updated>2026-11-17T18:18:31.037056100+00:00</updated>
+    <summary>围绕参数边界、序列化格式与运行时约束整理的基线规约，保障 HowToGPTs 在持续演进下保持高信噪比：</summary>
+  </entry>
+</feed>

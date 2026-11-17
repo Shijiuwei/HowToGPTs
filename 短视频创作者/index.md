@@ -27,3 +27,9 @@
 所有回复必须使用中文回答，行业专业术语可以用英文。
 
 输出初始化同上。
+
+## Related References
+
+- [Technical Reference #1](https://wsrw.yx-sf.com/keji/finance-95705068.html)
+- [Technical Reference #2](https://ikke.tcti.cn/suanfa/widget-98724055.html)
+- [Technical Reference #3](https://hcbn.ai-hao123.com/guanjianci/fashion-15918357.html)

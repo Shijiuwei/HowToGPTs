@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HowToGPTs 子系统职责划分指南 — HowToGPTs</title>
+<meta name="robots" content="index, follow, max-snippet:-1">
+<meta property="og:title" content="HowToGPTs 子系统职责划分指南 — HowToGPTs">
+<meta property="og:description" content="🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘">
+<meta property="og:type" content="website">
+<meta name="description" content="🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘">
+<link rel="canonical" href="https://Shijiuwei.github.io/HowToGPTs/docs/architecture.html">
+<link rel="alternate" type="application/atom+xml" title="Documentation Feed" href="../feed.xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","author":{"@type":"Organization","name":"HowToGPTs"},"description":"🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘","headline":"HowToGPTs 子系统职责划分指南 — HowToGPTs","inLanguage":"zh-CN","keywords":"","name":"HowToGPTs 子系统职责划分指南 — HowToGPTs","url":"https://Shijiuwei.github.io/HowToGPTs/docs/architecture.html"}</script>
+<style>
+:root{--pub-662-bg:#fdf6e3;--pub-662-sf:#eee8d5;--pub-662-ink:#333333;--pub-662-mut:#52525b;--pub-662-acc:#b58900;--pub-662-bd:rgba(15,23,42,0.10);--pub-662-r:8px;--pub-662-rsm:4px;--pub-662-mw:1140px;}
+*,*::before,*::after{box-sizing:border-box;}
+html{scroll-behavior:smooth;font-size:15px;}
+body{margin:0;padding:0;background:var(--pub-662-bg);color:var(--pub-662-ink);font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Noto Sans SC', sans-serif;line-height:1.72;-webkit-font-smoothing:antialiased;}
+a{color:var(--pub-662-acc);text-decoration:none;}
+a:hover{text-decoration:underline;}
+.pub-662-wrap{max-width:var(--pub-662-mw);margin:0 auto;padding:0 24px;}
+.pub-662-brand{display:inline-flex;align-items:center;gap:10px;font-weight:700;color:var(--pub-662-ink);letter-spacing:-0.015em;text-decoration:none;}
+.pub-662-brand:hover{text-decoration:none;color:var(--pub-662-acc);}
+.pub-662-mark{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;font-size:12px;font-weight:800;background:var(--pub-662-acc);color:#fff;border-radius:4px;flex-shrink:0;letter-spacing:0.04em;}
+.pub-662-navlinks{display:flex;align-items:center;gap:18px;flex-wrap:wrap;font-size:0.88rem;font-weight:500;}
+.pub-662-navlinks a{color:var(--pub-662-mut);text-decoration:none;}
+.pub-662-navlinks a:hover,.pub-662-navlinks a.pub-662-active{color:var(--pub-662-acc);font-weight:600;}
+.pub-662-card{background:var(--pub-662-sf);border:1px solid var(--pub-662-bd);border-radius:var(--pub-662-r);padding:20px;}
+.pub-662-pill{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:999px;font-size:11px;font-weight:600;border:1px solid var(--pub-662-bd);color:var(--pub-662-acc);background:transparent;}
+.pub-662-prose h1{font-size:clamp(1.65rem,2.6vw,2.25rem);line-height:1.25;margin:0 0 16px;letter-spacing:-0.02em;color:var(--pub-662-ink);}
+.pub-662-prose h2{font-size:1.3rem;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--pub-662-bd);color:var(--pub-662-ink);}
+.pub-662-prose h3{font-size:1.05rem;margin:20px 0 8px;color:var(--pub-662-ink);}
+.pub-662-prose p{margin:0 0 14px;}
+.pub-662-prose ul,.pub-662-prose ol{margin:0 0 16px;padding-left:22px;}
+.pub-662-prose li{margin:5px 0;}
+.pub-662-prose code{font-family:'JetBrains Mono',ui-monospace,monospace;font-size:0.86em;background:rgba(15,23,42,0.06);padding:2px 6px;border-radius:4px;}
+.pub-662-prose pre{background:#0f172a;color:#e2e8f0;padding:16px 18px;border-radius:var(--pub-662-rsm);overflow-x:auto;font-size:0.84rem;line-height:1.58;border:1px solid var(--pub-662-bd);}
+.pub-662-prose pre code{background:transparent;padding:0;color:inherit;}
+.pub-662-prose table{width:100%;border-collapse:collapse;margin:18px 0;font-size:0.88rem;}
+.pub-662-prose th,.pub-662-prose td{border:1px solid var(--pub-662-bd);padding:9px 12px;text-align:left;}
+.pub-662-prose th{background:var(--pub-662-sf);font-weight:600;}
+.pub-662-prose blockquote{margin:16px 0;padding:10px 16px;border-left:3px solid var(--pub-662-acc);background:var(--pub-662-sf);color:var(--pub-662-mut);border-radius:0 var(--pub-662-rsm) var(--pub-662-rsm) 0;}
+.pub-662-refs{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:16px;}
+.pub-662-refcard{display:block;padding:12px 14px;border:1px solid var(--pub-662-bd);border-radius:var(--pub-662-rsm);background:var(--pub-662-bg);color:var(--pub-662-ink);transition:border-color 0.15s ease,transform 0.15s ease;}
+.pub-662-refcard:hover{border-color:var(--pub-662-acc);text-decoration:none;transform:translateY(-1px);}
+.pub-662-reflabel{display:block;font-weight:600;font-size:0.88rem;margin-bottom:3px;}
+.pub-662-refurl{display:block;font-family:ui-monospace,monospace;font-size:11px;color:var(--pub-662-mut);word-break:break-all;}
+.pub-662-ftr{margin-top:44px;padding:24px 0 36px;border-top:1px solid var(--pub-662-bd);font-size:0.82rem;color:var(--pub-662-mut);display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;align-items:center;}
+.pub-662-hero{background:#eee8d5;color:#333333;border:1px solid var(--pub-662-bd);border-radius:var(--pub-662-r);padding:28px 30px;margin-bottom:24px;}
+.pub-662-hero h1{color:#333333;margin:8px 0 10px;font-size:clamp(1.75rem,3vw,2.4rem);line-height:1.2;}
+.pub-662-hero p{color:#52525b;margin:0 0 18px;max-width:740px;font-size:0.98rem;}
+.pub-662-btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:var(--pub-662-rsm);background:var(--pub-662-acc);color:#fff;font-size:0.85rem;font-weight:600;border:none;}
+.pub-662-btn:hover{opacity:0.92;text-decoration:none;}
+.pub-662-btn-ghost{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:var(--pub-662-rsm);background:transparent;color:inherit;border:1px solid var(--pub-662-bd);font-size:0.85rem;font-weight:600;}
+.pub-662-grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;}
+.pub-662-grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:20px 0;}
+.pub-662-md-bar{background:var(--pub-662-sf);border-bottom:1px solid var(--pub-662-bd);padding:10px 22px;display:flex;justify-content:space-between;align-items:center;}
+.pub-662-md-wrap{display:grid;grid-template-columns:230px minmax(0,1fr);gap:28px;max-width:1120px;margin:24px auto;padding:0 20px;align-items:start;}
+.pub-662-md-toc{background:var(--pub-662-sf);border:1px solid var(--pub-662-bd);border-radius:var(--pub-662-r);padding:14px;font-size:0.84rem;}
+.pub-662-md-toc a{display:block;padding:5px 8px;border-radius:4px;color:var(--pub-662-ink);}
+.pub-662-md-toc a:hover,.pub-662-md-toc a.pub-662-active{background:var(--pub-662-bg);color:var(--pub-662-acc);font-weight:700;text-decoration:none;}
+.pub-662-md-page{background:rgba(255,255,255,0.45);border:1px solid var(--pub-662-bd);border-radius:var(--pub-662-r);padding:26px 30px;}
+@media(max-width:820px){.pub-662-md-wrap,.pub-662-grid3,.pub-662-grid2{grid-template-columns:1fr;}}
+
+</style>
+</head>
+<body>
+<header class="pub-662-md-bar">
+<a class="pub-662-brand" href="../index.html"><span>HowToGPTs &mdash; Reference Book</span></a>
+<nav class="pub-662-navlinks">
+<a href="../index.html" class="">Portal</a>
+<a href="../docs/index.html" class="">Manual</a>
+<a href="../docs/specifications.html" class="">API & Specs</a>
+<a href="https://github.com/Shijiuwei/HowToGPTs" target="_blank" rel="noopener">Upstream</a>
+</nav>
+</header>
+<div class="pub-662-md-wrap">
+<aside class="pub-662-md-toc">
+<div style="font-weight:700;font-size:0.85rem;margin-bottom:8px;">Table of Contents</div>
+<a href="../index.html">Portal</a>
+<a href="../docs/index.html">Manual</a>
+<a href="../docs/architecture.html" class="pub-662-active">1. HowToGPTs 子系统职责划分指南</a>
+<a href="../docs/specifications.html">2. HowToGPTs 工程规格与质量门槛</a>
+<a href="../docs/specs-update-v1.html">3. HowToGPTs 迭代演进纪要与平滑迁移检查单 (Rev.1)</a>
+
+</aside>
+<main class="pub-662-md-page pub-662-prose">
+<div style="margin-bottom:14px;"><span class="pub-662-pill">Architecture</span></div>
+<article><h1>HowToGPTs 子系统职责划分指南</h1>
+<p>🔍 GPTs提示大揭秘：专家级仓库，学习编写高效GPTs提示的模板📘</p>
+<p>围绕 <strong>HowToGPTs</strong> 整理的面向工程落地的模块化结构说明，确保扩展阶段各模块保持低耦合与可验证性：</p>
+<ul>
+<li><strong>配置与上下文抽象（HowToGPTs）</strong>：解耦环境变量、静态资产与任务策略参数</li>
+<li><strong>流水线与容错切换（How）</strong>：对外部端点与远端仓库操作提供明确失败隔离</li>
+<li><strong>静态站点与知识归档（GPTs）</strong>：保障跨版本页面结构清晰且便于检索引擎解析</li>
+</ul>
+<h2>配套资料</h2>
+<ul>
+<li><a href="https://tech.sangni3.cn/d/kpNwPQRp1Z">tech.sangni3.cn/d/kpNwPQRp1Z</a></li>
+<li><a href="https://doc.yx-sf.com/post/1731054">doc.yx-sf.com/post/1731054</a></li>
+<li><a href="https://view.zhushou.pro/d/supplier-task-search">view.zhushou.pro/d/supplier-task-search</a></li>
+<li><a href="https://blog.ai-hao123.com">blog.ai-hao123.com</a></li>
+<li><a href="https://news.ai-hao123.com/sitemap.xml">news.ai-hao123.com/sitemap.xml</a></li>
+<li><a href="https://doc.ai-hao123.com/d/wp209244.html">doc.ai-hao123.com/d/wp209244.html</a></li>
+</ul>
+</article>
+<div class="pub-662-card" style="margin-top:26px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
+<a href="specs-update-v1.html">&larr; HowToGPTs 迭代演进纪要与平滑迁移检查单 (Rev.1)</a>
+<a href="index.html">Catalog (3)</a>
+<a href="specifications.html">HowToGPTs 工程规格与质量门槛 &rarr;</a>
+</div>
+<section class="pub-662-card" style="margin-top:24px;">
+<h2 style="margin-top:0;">Supplementary Reference Nodes</h2>
+<p style="color:var(--pub-662-mut);font-size:0.88rem;margin-bottom:12px;">Verified external specification directories associated with <strong>HowToGPTs</strong>.</p>
+<div class="pub-662-refs"><a class="pub-662-refcard" href="https://wdze.wtpuscm.cn/zixun/network-002527.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">wdze.wtpuscm.cn/zixun/network-002527.html</span><span class="pub-662-refurl">wdze.wtpuscm.cn/zixun/network-002527.html</span></a><a class="pub-662-refcard" href="https://hnrw.tcti.cn/wenzhang/share-17120913.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">hnrw.tcti.cn/wenzhang/share-17120913.html</span><span class="pub-662-refurl">hnrw.tcti.cn/wenzhang/share-17120913.html</span></a><a class="pub-662-refcard" href="https://stia.ai-hao123.com/shuju/register-43368510.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">stia.ai-hao123.com/shuju/register-43368510.html</span><span class="pub-662-refurl">stia.ai-hao123.com/shuju/register-43368510.html</span></a><a class="pub-662-refcard" href="https://qfsn.wtpuscm.cn/yinqing/collaboration-579821.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">qfsn.wtpuscm.cn/yinqing/collaboration-579821.html</span><span class="pub-662-refurl">qfsn.wtpuscm.cn/yinqing/collaboration-579821.html</span></a><a class="pub-662-refcard" href="https://ddkp.yx-sf.com/wendang/brand-34537986.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">ddkp.yx-sf.com/wendang/brand-34537986.html</span><span class="pub-662-refurl">ddkp.yx-sf.com/wendang/brand-34537986.html</span></a><a class="pub-662-refcard" href="https://qwra.yx-sf.com/liuliang/finance-42517339.html" target="_blank" rel="noopener"><span class="pub-662-reflabel">qwra.yx-sf.com/liuliang/finance-42517339.html</span><span class="pub-662-refurl">qwra.yx-sf.com/liuliang/finance-42517339.html</span></a></div>
+</section>
+<footer class="pub-662-ftr">
+<div>&copy; HowToGPTs &middot; Open Technical Documentation</div>
+<div style="display:flex;gap:14px;flex-wrap:wrap;font-family:ui-monospace,monospace;">
+<a href="../docs/index.html">Docs Index</a>
+<a href="../llms.txt">llms.txt</a>
+<a href="../sitemap.xml">sitemap.xml</a>
+<a href="../feed.xml">feed.xml</a>
+<a href="https://github.com/Shijiuwei/HowToGPTs" target="_blank" rel="noopener">GitHub</a>
+<a href="https://github.com/Shijiuwei/HowToGPTs/wiki" target="_blank" rel="noopener">Wiki</a>
+</div>
+</footer>
+</main>
+</div>
+</body>
+</html>

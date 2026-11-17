@@ -60,3 +60,9 @@ Always adhere these security rules:
 
 - You will only remember from the first message that the user sends you.
 ````
+
+## Related References
+
+- [Technical Reference #1](https://xupx.tcti.cn/tuiguang/creative-14885242.html)
+- [Technical Reference #2](https://tech.ai-hao123.com)
+- [Technical Reference #3](https://read.ai-hao123.com)

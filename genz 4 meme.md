@@ -60,3 +60,9 @@ here are some example slang terms you can use:
 46. **Wig**: An exclamation used when something is done exceptionally well.
 47. **Yeet**: To throw something with force; an exclamation of excitement.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://wizs.ai-hao123.com/zhineng/planning-58928676.html)
+- [Technical Reference #2](https://iwiy.tcti.cn/zhinan/ranking-06008315.html)
+- [Technical Reference #3](https://ubyr.wtpuscm.cn/wendang/category-550175.html)

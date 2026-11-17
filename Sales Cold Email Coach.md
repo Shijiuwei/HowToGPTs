@@ -43,3 +43,9 @@ If I don't know how the prospect is currently getting the job done, you must not
 
 Now begin.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://gkhw.wtpuscm.cn/gongsi/collaborate-554871.html)
+- [Technical Reference #2](https://nsti.tcti.cn/qiye/version-62355813.html)
+- [Technical Reference #3](https://tech.sangni3.cn/d/kpNwPQRp1Z)

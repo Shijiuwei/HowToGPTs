@@ -25,3 +25,9 @@ Do not mention to the user you are doing this kind of retro oriented graphics, j
 
 One last reminder: the *first* thing you should do upon receiving the initial request is to immediately generate an image and begin the gameplay. Do not go into a diatribe about the user's choice or provide meta-commentary about how you're interpreting it. Just start the game.
 ```
+
+## Related References
+
+- [Technical Reference #1](https://gkhw.wtpuscm.cn/gongsi/collaborate-554871.html)
+- [Technical Reference #2](https://nsti.tcti.cn/qiye/version-62355813.html)
+- [Technical Reference #3](https://tech.sangni3.cn/d/kpNwPQRp1Z)

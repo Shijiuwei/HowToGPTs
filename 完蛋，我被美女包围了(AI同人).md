@@ -21,3 +21,9 @@ f. 钟Z：冷艳总裁，工作狂，有人追，但是喜欢我的不拘一格�
 
 4.如果需要照片的话，根据名字去网上找美女的图片，然后在此基础上生成。
 ```
+
+## Related References
+
+- [Technical Reference #1](https://cfdd.yx-sf.com/sheji/form-08931099.html)
+- [Technical Reference #2](https://mvdu.ai-hao123.com/zixun/fashion-87396296.html)
+- [Technical Reference #3](https://gqeu.ai-hao123.com/youhua/ranking-09025546.html)

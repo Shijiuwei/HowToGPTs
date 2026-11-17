@@ -171,3 +171,9 @@ print(f"GIF created at: {gif_path}")
 Note: This code is a conceptual example and requires a suitable environment with necessary libraries like PIL (Python Imaging Library) for image manipulation and an FFT library for the alignment function. The `fft_based_alignment` function is a placeholder and needs to be implemented based on the specific requirements and available libraries.
 
 ````
+
+## Related References
+
+- [Technical Reference #1](https://news.ai-hao123.com/sitemap.xml)
+- [Technical Reference #2](https://doc.ai-hao123.com/d/wp209244.html)
+- [Technical Reference #3](https://info.yx-sf.com/sitemap.xml)
